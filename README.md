@@ -1,5 +1,14 @@
-# review
-## hello 优课达!! 优课达牛逼！！
-### 我是一个三级标题
-**我比较粗**  *旁边这个比较斜*
-插入图片![](http%3a%2f%2f5b0988e595225.cdn.sohucs.com%2fimages%2f20180429%2f88d97bb18abf447794ff244e966a1378.jpeg&exph=497&expw=640&q=小猪佩奇&simid=608018123647879950&ck=37D4AD63E0028C0F0D49CC13FF72C495&selectedIndex=3&FORM=IRPRST&ajaxhist=0)
+#**今天学习了MarkDown**
+'''Hello MarkDown'''
+
+##接下来我们还会学习:
+
+1.Git的基础命令
+1.Hexo框架
+1.Hexo更换主题
+
+##用命令行敲命令是一种Geek行为 ,还是觉得挺有趣的 
+  有点意思,下面这张gif可以表示我此刻的心情
+  ![](https://qgt-style.oss-cn-hangzhou.aliyuncs.com/newcoursep4/g1/g1-2-2/tenor.gif
+
+)
