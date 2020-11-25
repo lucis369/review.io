@@ -8,7 +8,9 @@
 1. Hexo更换主题
 
 ##用命令行敲命令是一种Geek行为 ,还是觉得挺有趣的 
-  有点意思,下面这张gif可以表示我此刻的心情
-  ![](https://qgt-style.oss-cn-hangzhou.aliyuncs.com/newcoursep4/g1/g1-2-2/tenor.gif
+
+##有点意思,下面这张gif可以表示我此刻的心情
+
+![](https://qgt-style.oss-cn-hangzhou.aliyuncs.com/newcoursep4/g1/g1-2-2/tenor.gif
 
 )
